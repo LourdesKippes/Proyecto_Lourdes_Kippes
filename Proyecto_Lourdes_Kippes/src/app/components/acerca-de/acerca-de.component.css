@@ -8,7 +8,7 @@ div{
 /*estilo foto de perfil*/
 @media (max-width: 576px){
     #fotodeperfil{
-        width: 30%;
+        width: 35%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px blueviolet;
         left: 5%;
@@ -17,7 +17,7 @@ div{
 }
 @media (min-width: 575px){
     #fotodeperfil{
-        width: 15%;
+        width: 10%;
         position: absolute;
         border-radius: 100%;
         box-shadow: 3px 3px 3px blueviolet;
