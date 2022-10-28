@@ -1,6 +1,19 @@
-#logoAP{
-    width: 150px;
+#app-logo-ap{
+    width: 130px;
+    float: left;
  }
+.redes{ 
+    float: right;
+    margin-top: 10px;
+    text-align: center;
+    margin-right: 10px;
+}
 img{ 
-    width: 100px;
+    width: 50px;
+}
+.btn{ 
+    width: 80px;
+    height: 40px;
+    border-width: medium;
+    border-color: blueviolet;
 }
